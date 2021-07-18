@@ -1,2 +1,2 @@
 # Miscellaneous
-Random useful projects -source:Idea
+Random useful projects
